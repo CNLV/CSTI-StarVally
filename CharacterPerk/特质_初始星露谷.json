@@ -1,0 +1,67 @@
+{
+    "ActionModifiers": [],
+    "ActionObjectives": [],
+    "AddedCards": [],
+    "AddedStartingHours": 0,
+    "CardsOnBoardObjectives": [],
+    "CheckingNotificationDetails": 0,
+    "CompleteOnLose": false,
+    "CompleteOnWin": false,
+    "DifficultyRating": 0,
+    "DisplayPriority": 1000.0,
+    "EditorOnly": false,
+    "EquippedCards": [],
+    "HiddenUntilUnlocked": false,
+    "MoonsCost": 0,
+    "NestedObjectives": [],
+    "NoSafetyMode": false,
+    "NotifyWhenNotChecked": false,
+    "OverrideEnvironment": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "OverrideEnvironmentWarpData": "b9e198e1c8ad4308bb8db21bcf11e760",
+    "OverrideEnvironmentWarpType": 3,
+    "OverrideEquipment": false,
+    "OverrideWeather": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "OverrideWeatherWarpData": "c4bed36a395946fb84037a6b0b1ae6a5",
+    "OverrideWeatherWarpType": 3,
+    "PassiveStatModifiers": [],
+    "PerkDescription": {
+        "DefaultText": "从鹈鹕镇中爷爷留下的农场中开始",
+        "LocalizationKey": "星露谷_特质_初始星露谷_PerkDescription",
+        "ParentObjectID": "691ec78657af438f926dc47e1826cb3f"
+    },
+    "PerkIcon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "PerkIconWarpData": "特质_初始星露谷",
+    "PerkIconWarpType": 3,
+    "PerkName": {
+        "DefaultText": "初始星露谷",
+        "LocalizationKey": "星露谷_特质_初始星露谷_PerkName",
+        "ParentObjectID": "691ec78657af438f926dc47e1826cb3f"
+    },
+    "PerkUnlockConditions": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+    },
+    "PlayedCharacter": [],
+    "RequiredDifficultyScore": {
+        "x": 0,
+        "y": 0
+    },
+    "ResetLockInEditor": false,
+    "StartUnlocked": false,
+    "StartingStatModifiers": [],
+    "StatsObjectives": [],
+    "SunsCost": 1,
+    "TagsOnBoardObjectives": [],
+    "TimeObjectives": [],
+    "UniqueID": "691ec78657af438f926dc47e1826cb3f"
+}

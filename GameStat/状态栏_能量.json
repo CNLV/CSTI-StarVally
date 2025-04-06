@@ -1,0 +1,104 @@
+{
+    "BarColor": {
+        "a": 1.0,
+        "b": 0.192156881093979,
+        "g": 0.796078503131866,
+        "r": 0.662745118141174
+    },
+    "BarHighlightColor": {
+        "a": 1.0,
+        "b": 0.0,
+        "g": 0.728510022163391,
+        "r": 1.0
+    },
+    "BaseRatePerTick": 0.0,
+    "BaseValue": 0.0,
+    "CannotBeInspected": false,
+    "DefaultStatusDescription": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+    },
+    "DefaultStatusIcon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "DefaultStatusIconWarpData": "能量",
+    "DefaultStatusIconWarpType": 3,
+    "DefaultStatusName": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+    },
+    "Description": {
+        "DefaultText": "",
+        "LocalizationKey": "星露谷_状态栏_能量_Description",
+        "ParentObjectID": "7a925157cf9a4d64abf7cd32ba478ed3"
+    },
+    "FeedbackInfo": {
+        "Icon": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "Inverted": false,
+        "NegativeIcon": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "StepValue": 1.0
+    },
+    "GameName": {
+        "DefaultText": "能量",
+        "LocalizationKey": "星露谷_状态栏_能量_GameName",
+        "ParentObjectID": "7a925157cf9a4d64abf7cd32ba478ed3"
+    },
+    "InvertedDirection": false,
+    "MaxStalenessStack": 0,
+    "MinMaxRate": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "MinMaxValue": {
+        "x": -15.0,
+        "y": 270.0
+    },
+    "NotEnoughIcon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "NotEnoughText": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+    },
+    "NoveltyCooldownDuration": 0,
+    "OverrideFeedbackPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "RequiredPerks": [],
+    "ShowActionEffects": false,
+    "StalenessMultiplier": 0.0,
+    "StatPriority": 0,
+    "StatusDebugMode": false,
+    "Statuses": [],
+    "StatusesHaveNoBar": false,
+    "TimeOfDayMods": [],
+    "TooMuchText": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+    },
+    "TrendIndicatorRateRange": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "UniqueID": "7a925157cf9a4d64abf7cd32ba478ed3",
+    "UsesNovelty": false,
+    "Visibility": 1,
+    "VisibleInDetailedList": false,
+    "VisibleValueRange": {
+        "x": 0.0,
+        "y": 0.0
+    }
+}
